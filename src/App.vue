@@ -84,7 +84,7 @@
       </div>
       <div class="old-price">R$ 139,00</div>
       <div>por apenas</div>
-      <div class="new-price">10x R$ 8,90</div>
+      <div class="new-price">12x R$ 8,44</div>
       <img src="./assets/imgs/4.webp" class="img-product" />
       <div
         class="btn"
